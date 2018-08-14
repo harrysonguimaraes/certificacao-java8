@@ -1,0 +1,1 @@
+Repo criado para implementação de exercícios de fixação e preparação para o exame de certificação OCA (Oracle certified Associate).
